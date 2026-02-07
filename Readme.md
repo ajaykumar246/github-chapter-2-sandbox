@@ -1,1 +1,1 @@
-Practicing GitHub.
+Practicing.
